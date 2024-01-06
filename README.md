@@ -22,13 +22,13 @@ To build and run this game, you will need:
 To get started with the game, clone this repository to your local machine using the following command:
 
 ```
-git clone https://github.com/your-username/tictactoe-cpp.git
+git clone https://github.com/your-username/tictactoe.git
 ```
 
 Navigate to the project directory:
 
 ```
-cd tictactoe-cpp
+cd tictactoe
 ```
 
 Build the project using the Makefile:
